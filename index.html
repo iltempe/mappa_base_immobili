@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mappa Base</title>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+		<link rel="stylesheet" type="text/css" href="css/own_style.css">
+		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+		<script src="js/leaflet-hash.js"></script>
+		<script src="js/Autolinker.min.js"></script>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	</head>
+	<body>
+		<div id="map"></div>
+		<script>
+		var map = L.map('map', {
+			zoomControl:true, maxZoom:19
+		}).fitBounds([[43.4411317281,10.2676469233],[44.2433912237,12.0983005973]]);
+		var hash = new L.Hash(map);
+		var additional_attrib = 'created w. <a href="https://github.com/geolicious/qgis2leaf" target ="_blank">qgis2leaf</a> by <a href="http://www.geolicious.de" target ="_blank">Geolicious</a> & contributors<br>';
+		var feature_group = new L.featureGroup([]);
+		var raster_group = new L.LayerGroup([]);
+		var basemap_0 = L.tileLayer('http://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', { 
+			attribution: additional_attrib + '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'
+		});	
+		basemap_0.addTo(map);
+		var basemap_1 = L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', { 
+			attribution: additional_attrib + '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>'
+		});	
+		var layerOrder=new Array();
+		var overlay_MappabaseAnagrafeComunaleImmobili = L.tileLayer.wms('http://geoserver.comune.prato.it:80/geoserver/comunepo/wms', {
+			layers: 'aci_base',
+			format: 'image/png',
+			transparent: true,
+			continuousWorld : true,
+		}).addTo(map);
+		var overlay_MappabaseAnagrafeComunaleImmobili = L.tileLayer.wms('http://geoserver.comune.prato.it:80/geoserver/comunepo/wms', {
+			layers: 'aci_base',
+			format: 'image/png',
+			transparent: true,
+			continuousWorld : true,
+		}).addTo(map);
+
+		feature_group.addTo(map);
+		var title = new L.Control();
+		title.onAdd = function (map) {
+			this._div = L.DomUtil.create('div', 'info'); // create a div with a class "info"
+			this.update();
+			return this._div;
+		};
+		title.update = function () {
+			this._div.innerHTML = '<h2>Anagrafe Comuni Immobili</h2>fonte http://mappe.comune.prato.it/mappebinj/'
+		};
+		title.addTo(map);
+	var baseMaps = {
+		'OSM DE': basemap_0,
+		'OSM HOT': basemap_1};
+		L.control.layers(baseMaps,{"MappabaseAnagrafeComunaleImmobili": overlay_MappabaseAnagrafeComunaleImmobili,"MappabaseAnagrafeComunaleImmobili": overlay_MappabaseAnagrafeComunaleImmobili},{collapsed:false}).addTo(map);
+		L.control.scale({options: {position: 'bottomleft',maxWidth: 100,metric: true,imperial: false,updateWhenIdle: false}}).addTo(map);
+	</script>
+</body>
+</html>

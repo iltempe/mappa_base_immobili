@@ -1,0 +1,905 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.18.9">
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
+    <customproperties/>
+    <layer-tree-group expanded="0" checked="Qt::PartiallyChecked" name="Foto aeree">
+      <customproperties/>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto2016_etichette57390" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2016_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 2016">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto2013_comunepo_etichette41003" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2013_comunepo_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 2013">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto2011_etichette11641" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2011_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 8 marzo 2011">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto2010_etichette83858" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2010_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 2010">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto2009_etichette5021" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2009_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 2009">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto2006_etichette51135" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2006_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 2006">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto2005_etichette98308" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2005_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 2005">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto2004SAT_etichette69569" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2004SAT_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto satellitari 2004">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto2003_etichette33768" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2003_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 2003">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto2002_etichette57875" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2002_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 2002">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto1998_etichette22632" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto1998_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 1998">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto1996_etichette42924" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto1996_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 1996">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto1978_etichette15548" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto1978_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 1978">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Checked" id="spxg_aci_base85347" source="crs=EPSG:3003&amp;format=image/png&amp;layers=aci_base&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/comunepo/wms" name="Mappa base Anagrafe Comunale Immobili">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Checked" id="spxg_aci_base2505" source="crs=EPSG:3003&amp;format=image/png&amp;layers=aci_base&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/comunepo/wms" name="Mappa base Anagrafe Comunale Immobili">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="0" providerKey="wms" checked="Qt::Unchecked" id="spxg_comunepo:ortofoto1954_etichette42733" source="crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto1954_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms" name="Foto aeree 1954">
+        <customproperties/>
+      </layer-tree-layer>
+    </layer-tree-group>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>meters</units>
+    <extent>
+      <xmin>1627458.88125000009313226</xmin>
+      <ymin>4810599.38750000018626451</ymin>
+      <xmax>1722572.86874999990686774</xmax>
+      <ymax>4903592.11249999981373549</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>0</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+        <srsid>968</srsid>
+        <srid>3003</srid>
+        <authid>EPSG:3003</authid>
+        <description>Monte Mario / Italy zone 1</description>
+        <projectionacronym>tmerc</projectionacronym>
+        <ellipsoidacronym>intl</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <layer_coordinate_transform_info/>
+  </mapcanvas>
+  <layer-tree-canvas>
+    <custom-order enabled="1">
+      <item>spxg_comunepo:ortofoto2016_etichette57390</item>
+      <item>spxg_comunepo:ortofoto2013_comunepo_etichette41003</item>
+      <item>spxg_comunepo:ortofoto2011_etichette11641</item>
+      <item>spxg_comunepo:ortofoto2010_etichette83858</item>
+      <item>spxg_comunepo:ortofoto2009_etichette5021</item>
+      <item>spxg_comunepo:ortofoto2006_etichette51135</item>
+      <item>spxg_comunepo:ortofoto2005_etichette98308</item>
+      <item>spxg_comunepo:ortofoto2004SAT_etichette69569</item>
+      <item>spxg_comunepo:ortofoto2003_etichette33768</item>
+      <item>spxg_comunepo:ortofoto2002_etichette57875</item>
+      <item>spxg_comunepo:ortofoto1998_etichette22632</item>
+      <item>spxg_comunepo:ortofoto1996_etichette42924</item>
+      <item>spxg_comunepo:ortofoto1978_etichette15548</item>
+      <item>spxg_aci_base85347</item>
+      <item>spxg_aci_base2505</item>
+      <item>spxg_comunepo:ortofoto1954_etichette42733</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="false">
+    <legendgroup open="false" checked="Qt::PartiallyChecked" name="Foto aeree">
+      <legendlayer drawingOrder="0" open="false" checked="Qt::Unchecked" name="Foto aeree 2016" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2016_etichette57390" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="1" open="false" checked="Qt::Unchecked" name="Foto aeree 2013" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2013_comunepo_etichette41003" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="2" open="false" checked="Qt::Unchecked" name="Foto aeree 8 marzo 2011" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2011_etichette11641" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="3" open="false" checked="Qt::Unchecked" name="Foto aeree 2010" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2010_etichette83858" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="4" open="false" checked="Qt::Unchecked" name="Foto aeree 2009" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2009_etichette5021" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="5" open="false" checked="Qt::Unchecked" name="Foto aeree 2006" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2006_etichette51135" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="6" open="false" checked="Qt::Unchecked" name="Foto aeree 2005" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2005_etichette98308" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="7" open="false" checked="Qt::Unchecked" name="Foto satellitari 2004" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2004SAT_etichette69569" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="8" open="false" checked="Qt::Unchecked" name="Foto aeree 2003" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2003_etichette33768" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="9" open="false" checked="Qt::Unchecked" name="Foto aeree 2002" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto2002_etichette57875" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="10" open="false" checked="Qt::Unchecked" name="Foto aeree 1998" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto1998_etichette22632" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="11" open="false" checked="Qt::Unchecked" name="Foto aeree 1996" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto1996_etichette42924" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="12" open="false" checked="Qt::Unchecked" name="Foto aeree 1978" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto1978_etichette15548" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="13" open="false" checked="Qt::Checked" name="Mappa base Anagrafe Comunale Immobili" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_aci_base85347" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="14" open="false" checked="Qt::Checked" name="Mappa base Anagrafe Comunale Immobili" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_aci_base2505" visible="1"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="15" open="false" checked="Qt::Unchecked" name="Foto aeree 1954" showFeatureCount="0">
+        <filegroup open="false" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="spxg_comunepo:ortofoto1954_etichette42733" visible="0"/>
+        </filegroup>
+      </legendlayer>
+    </legendgroup>
+  </legend>
+  <projectlayers>
+    <maplayer minimumScale="0" maximumScale="1.0001e+06" type="raster" hasScaleBasedVisibilityFlag="1">
+      <extent>
+        <xmin>1629723.5</xmin>
+        <ymin>4812813.5</ymin>
+        <xmax>1720308.25</xmax>
+        <ymax>4901378</ymax>
+      </extent>
+      <id>spxg_aci_base2505</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=aci_base&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/comunepo/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Mappa base Anagrafe Comunale Immobili</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1.0001e+06" type="raster" hasScaleBasedVisibilityFlag="1">
+      <extent>
+        <xmin>1629723.5</xmin>
+        <ymin>4812813.5</ymin>
+        <xmax>1720308.25</xmax>
+        <ymax>4901378</ymax>
+      </extent>
+      <id>spxg_aci_base85347</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=aci_base&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/comunepo/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Mappa base Anagrafe Comunale Immobili</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1660200</xmin>
+        <ymin>4851280</ymin>
+        <xmax>1680880</xmax>
+        <ymax>4874280</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto1954_etichette42733</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto1954_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 1954</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1660328.75540354987606406</xmin>
+        <ymin>4851400.48637377005070448</ymin>
+        <xmax>1680761.14262782991863787</xmax>
+        <ymax>4874173.556493129581213</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto1978_etichette15548</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto1978_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 1978</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1660200</xmin>
+        <ymin>4851280</ymin>
+        <xmax>1680880</xmax>
+        <ymax>4874280</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto1996_etichette42924</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto1996_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 1996</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661599.75</xmin>
+        <ymin>4852800.25</ymin>
+        <xmax>1674399.75</xmax>
+        <ymax>4868400.25</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto1998_etichette22632</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto1998_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 1998</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1660200</xmin>
+        <ymin>4851280</ymin>
+        <xmax>1680880</xmax>
+        <ymax>4874280</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto2002_etichette57875</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2002_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 2002</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661829.65599999995902181</xmin>
+        <ymin>4853708.71700000017881393</ymin>
+        <xmax>1673782.33100000000558794</xmax>
+        <ymax>4868326.03699999954551458</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto2003_etichette33768</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2003_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 2003</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661829.65599999995902181</xmin>
+        <ymin>4853708.71700000017881393</ymin>
+        <xmax>1673782.33100000000558794</xmax>
+        <ymax>4868326.03699999954551458</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto2004SAT_etichette69569</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2004SAT_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto satellitari 2004</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1653800</xmin>
+        <ymin>4845559.5</ymin>
+        <xmax>1680880.5</xmax>
+        <ymax>4891120</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto2005_etichette98308</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2005_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 2005</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1659645.99681150913238525</xmin>
+        <ymin>4850750.77943560015410185</ymin>
+        <xmax>1681507.57982966676354408</xmax>
+        <ymax>4874813.07413543667644262</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto2006_etichette51135</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2006_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 2006</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661598.83588799997232854</xmin>
+        <ymin>4852798.79358899965882301</ymin>
+        <xmax>1674401.23010499984957278</xmax>
+        <ymax>4869601.25057599972933531</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto2009_etichette5021</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2009_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 2009</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661598.83588799997232854</xmin>
+        <ymin>4852798.79358899965882301</ymin>
+        <xmax>1674401.23010499984957278</xmax>
+        <ymax>4869601.25057599972933531</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto2010_etichette83858</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2010_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 2010</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1660952.39930130820721388</xmin>
+        <ymin>4851631.25979948323220015</ymin>
+        <xmax>1674811.25992583367042243</xmax>
+        <ymax>4870404.00631810072809458</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto2011_etichette11641</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2011_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 8 marzo 2011</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1661424.18354290374554694</xmin>
+        <ymin>4853184.67246414348483086</ymin>
+        <xmax>1674608.32917852443642914</xmax>
+        <ymax>4868744.24230549205094576</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto2013_comunepo_etichette41003</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2013_comunepo_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 2013</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>1652893.41147276200354099</xmin>
+        <ymin>4845076.48223846219480038</ymin>
+        <xmax>1681906.64768530568107963</xmax>
+        <ymax>4891627.17816213704645634</ymax>
+      </extent>
+      <id>spxg_comunepo:ortofoto2016_etichette57390</id>
+      <datasource>crs=EPSG:3003&amp;format=image/png&amp;layers=comunepo:ortofoto2016_etichette&amp;styles=&amp;url=http://geoserver.comune.prato.it:80/geoserver/wms</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Foto aeree 2016</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +towgs84=-104.1,-49.1,-9.9,0.971,-2.917,0.714,-11.68 +units=m +no_defs</proj4>
+          <srsid>968</srsid>
+          <srid>3003</srid>
+          <authid>EPSG:3003</authid>
+          <description>Monte Mario / Italy zone 1</description>
+          <projectionacronym>tmerc</projectionacronym>
+          <ellipsoidacronym>intl</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties/>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" band="1" type="singlebandcolordata">
+          <rasterTransparency/>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <Measurement>
+      <DistanceUnits type="QString">meters</DistanceUnits>
+      <AreaUnits type="QString"></AreaUnits>
+    </Measurement>
+    <SemiAutomaticClassificationPlugin>
+      <bandSetPresent type="QString">No</bandSetPresent>
+      <bndSetWvLn type="QString">[]</bndSetWvLn>
+      <bndSetMultF type="QString">[]</bndSetMultF>
+      <bndSetUnit type="QString">band number</bndSetUnit>
+      <bandSet type="QString">[]</bandSet>
+      <bndSetAddF type="QString">[]</bndSetAddF>
+    </SemiAutomaticClassificationPlugin>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+  <visibility-presets/>
+</qgis>
